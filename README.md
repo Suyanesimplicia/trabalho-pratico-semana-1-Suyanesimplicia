@@ -2,12 +2,15 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Suyane Simplicia Faria Silva
+
+Matricula: 905187
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+
+
+![inspecao](images/inspecao.png)
 
 ## Tela de projeto no Replit
 
